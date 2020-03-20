@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="page_padding">8dp</dimen>
+    <dimen name="view_padding">16dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+    <dimen name="medium_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="extra_small_text_size">10sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="normal_text_size">18sp</dimen>
+    <dimen name="medium_text_size">24sp</dimen>
+    <dimen name="large_text_size">48sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+</resources>
